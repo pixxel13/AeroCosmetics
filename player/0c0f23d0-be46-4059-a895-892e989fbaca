@@ -1,0 +1,13 @@
+{ 
+   "uuid":"0c0f23d0-be46-4059-a895-892e989fbaca",
+   "username":null,
+   "cosmetics":{ 
+      "vops":{ 
+         "name":"vops",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"vops"
+      }
+   }
+}
