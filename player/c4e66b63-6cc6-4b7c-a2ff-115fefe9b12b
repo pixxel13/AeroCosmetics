@@ -1,0 +1,13 @@
+{ 
+   "uuid":"c4e66b63-6cc6-4b7c-a2ff-115fefe9b12b",
+   "username":null,
+   "cosmetics":{ 
+      "pancape":{ 
+         "name":"pancape",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"pancape"
+      }
+   }
+}

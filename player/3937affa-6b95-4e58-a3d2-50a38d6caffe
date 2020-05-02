@@ -1,0 +1,20 @@
+{ 
+   "uuid":"3937affa-6b95-4e58-a3d2-50a38d6caffe",
+   "username":null,
+   "cosmetics":{ 
+      "pancape":{ 
+         "name":"pancape",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"pancape"
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"purple"
+      }
+   }
+}
