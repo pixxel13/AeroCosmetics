@@ -1,0 +1,13 @@
+{ 
+   "uuid":"9d4f9479-b32c-4526-858a-1501ee412b36",
+   "username":null,
+   "cosmetics":{ 
+      "clown":{ 
+         "name":"clown",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"clown"
+      }
+   }
+}
