@@ -8,6 +8,13 @@
          "scale":0.16,
          "active":true,
          "resourceLocation":"vops"
+},
+      "darkpurple":{ 
+         "name":"darkpurple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"darkpurple"
       }
    }
 }
