@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"staff"
 },
-      "black":{ 
-         "name":"black",
+      "darkpurple":{ 
+         "name":"darkpurple",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"black"
+         "resourceLocation":"darkpurple"
       }
    }
 }
