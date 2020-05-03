@@ -1,0 +1,13 @@
+{ 
+   "uuid":"8f55e152-f567-4f74-96c7-0f39abf1f53f",
+   "username":null,
+   "cosmetics":{ 
+      "reaperhq":{ 
+         "name":"reaperhq",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"reaperhq"
+      }
+   }
+}
