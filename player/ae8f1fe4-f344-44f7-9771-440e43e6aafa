@@ -2,12 +2,12 @@
    "uuid":"ae8f1fe4-f344-44f7-9771-440e43e6aafa",
    "username":null,
    "cosmetics":{ 
-      "aero_gold":{ 
-         "name":"aero_gold",
+      "darkblue_lava":{ 
+         "name":"darkblue_lava",
          "type":"cape",
          "scale":0.16,
          "active":true,
-         "resourceLocation":"aero_gold"
+         "resourceLocation":"darkblue_lava"
 },
       "darkblue":{ 
          "name":"darkblue",
