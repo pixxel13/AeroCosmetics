@@ -1,0 +1,13 @@
+{ 
+   "uuid":"5b03e436-cb47-4a7d-9da7-d9f6ecaa8667",
+   "username":null,
+   "cosmetics":{ 
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"darkblue"
+      }
+   }
+}
