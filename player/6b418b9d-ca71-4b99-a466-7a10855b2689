@@ -1,0 +1,13 @@
+{ 
+   "uuid":"6b418b9d-ca71-4b99-a466-7a10855b2689",
+   "username":null,
+   "cosmetics":{ 
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":true,
+         "resourceLocation":"indigo"
+      }
+   }
+}
