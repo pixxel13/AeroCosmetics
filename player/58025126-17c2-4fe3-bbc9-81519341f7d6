@@ -9,12 +9,12 @@
          "active":true,
          "resourceLocation":"cici"
 },
-      "darkpurple":{ 
-         "name":"darkpurple",
+      "black":{ 
+         "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
          "active":true,
-         "resourceLocation":"darkpurple"
+         "resourceLocation":"black"
       }
    }
 }
