@@ -23,26 +23,26 @@
          "active":false,
          "resourceLocation":"famous"
 },
-      "lava_orange":{ 
-         "name":"lava_orange",
+      "pink_orange":{ 
+         "name":"pink_orange",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"lava_orange"
+         "resourceLocation":"pink_orange"
 },
-      "lava_blue":{ 
-         "name":"lava_blue",
+      "pink_blue":{ 
+         "name":"pink_blue",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"lava_blue"
+         "resourceLocation":"pink_blue"
 },
-      "lava_pink":{ 
-         "name":"lava_pink",
+      "pink_lava":{ 
+         "name":"pink_lava",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"lava_pink"         
+         "resourceLocation":"pink_lava"         
 },
       "red":{ 
          "name":"red",
