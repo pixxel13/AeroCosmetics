@@ -6,15 +6,92 @@
          "name":"cici",
          "type":"cape",
          "scale":0.16,
-         "active":true,
+         "active":false,
          "resourceLocation":"cici"
+},
+      "youtube":{ 
+         "name":"youtube",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"youtube"
+},
+      "famous":{ 
+         "name":"famous",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"famous"
+},
+      "lava_orange":{ 
+         "name":"lava_orange",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"lava_orange"
+},
+      "lava_blue":{ 
+         "name":"lava_blue",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"lava_blue"
+},
+      "lava_pink":{ 
+         "name":"lava_pink",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"lava_pink"         
+},
+      "red":{ 
+         "name":"red",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"red"
+},
+      "blue":{ 
+         "name":"blue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"blue"
 },
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
-         "resourceLocation":"black"
+         "active":false,
+         "resourceLocation":"black"         
+},
+      "darkblue":{ 
+         "name":"darkblue",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"darkblue"   
+},
+      "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"  
+},
+      "purple":{ 
+         "name":"purple",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"purple"           
+},
+      "indigo":{ 
+         "name":"indigo",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"indigo"   
       }
    }
 }
