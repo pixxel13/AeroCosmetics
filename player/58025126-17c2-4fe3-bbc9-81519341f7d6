@@ -23,26 +23,68 @@
          "active":false,
          "resourceLocation":"famous"
 },
-      "pink_orange":{ 
-         "name":"pink_orange",
+      "orange_lava":{ 
+         "name":"orange_lava",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"pink_orange"
+         "resourceLocation":"orange_lava"
 },
-      "pink_blue":{ 
-         "name":"pink_blue",
+      "redpink_lava":{ 
+         "name":"redpink_lava",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"pink_blue"
+         "resourceLocation":"redpink_lava"
 },
-      "pink_lava":{ 
-         "name":"pink_lava",
+      "blue_lava":{ 
+         "name":"blue_lava",
          "type":"cape",
          "scale":0.16,
          "active":false,
-         "resourceLocation":"pink_lava"         
+         "resourceLocation":"blue_lava"  
+},
+      "staff":{ 
+         "name":"staff",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"staff"
+},
+      "chatmod":{ 
+         "name":"chatmod",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"chatmod"
+},
+      "cookie":{ 
+         "name":"cookie",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cookie"
+},
+      "cookie_crumbs":{ 
+         "name":"cookie_crumbs",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"cookie_crumbs"        
+},
+      "green_lava":{ 
+         "name":"green_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"green_lava" 
+},
+      "purple_lava":{ 
+         "name":"purple_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":false,
+         "resourceLocation":"purple_lava" 
 },
       "red":{ 
          "name":"red",
