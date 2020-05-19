@@ -48,7 +48,7 @@
          "name":"staff",
          "type":"cape",
          "scale":0.16,
-         "active":false,
+         "active":true,
          "resourceLocation":"staff"
 },
       "chatmod":{ 
@@ -103,8 +103,8 @@
       "black":{ 
          "name":"black",
          "type":"dragon_wings",
-         "scale":0.13,
-         "active":false,
+         "scale":0.15,
+         "active":true,
          "resourceLocation":"black"         
 },
       "darkblue":{ 
