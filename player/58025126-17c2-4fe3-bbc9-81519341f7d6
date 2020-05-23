@@ -58,20 +58,6 @@
          "active":false,
          "resourceLocation":"chatmod"
 },
-      "cookie":{ 
-         "name":"cookie",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"cookie"
-},
-      "cookie_crumbs":{ 
-         "name":"cookie_crumbs",
-         "type":"cape",
-         "scale":0.16,
-         "active":false,
-         "resourceLocation":"cookie_crumbs"        
-},
       "green_lava":{ 
          "name":"green_lava",
          "type":"cape",
