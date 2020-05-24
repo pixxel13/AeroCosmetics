@@ -15,6 +15,13 @@
          "scale":0.13,
          "active":true,
          "resourceLocation":"red"
+},
+      "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"
       }
    }
 }
