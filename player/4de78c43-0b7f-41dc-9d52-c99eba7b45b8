@@ -1,0 +1,13 @@
+{ 
+   "uuid":"4de78c43-0b7f-41dc-9d52-c99eba7b45b8",
+   "username":null,
+   "cosmetics":{ 
+      "white":{ 
+         "name":"white",
+         "type":"dragon_wings",
+         "scale":0.13,
+         "active":false,
+         "resourceLocation":"white"
+      }
+   }
+}
