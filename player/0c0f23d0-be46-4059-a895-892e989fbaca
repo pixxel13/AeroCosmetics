@@ -20,7 +20,7 @@
          "name":"white",
          "type":"dragon_wings",
          "scale":0.13,
-         "active":true,
+         "active":false,
          "resourceLocation":"white"
       }
    }
