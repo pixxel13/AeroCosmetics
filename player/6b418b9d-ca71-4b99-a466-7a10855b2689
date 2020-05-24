@@ -2,6 +2,13 @@
    "uuid":"6b418b9d-ca71-4b99-a466-7a10855b2689",
    "username":null,
    "cosmetics":{ 
+      "purple_lava":{ 
+         "name":"purple_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"purple_lava"
+},
       "indigo":{ 
          "name":"indigo",
          "type":"dragon_wings",
