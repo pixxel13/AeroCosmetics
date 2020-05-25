@@ -1,0 +1,13 @@
+{ 
+   "uuid":"11b9ae34-2295-4be1-8aeb-0593a0788f92",
+   "username":null,
+   "cosmetics":{ 
+      "redpink_lava":{ 
+         "name":"redpink_lava",
+         "type":"cape",
+         "scale":0.16,
+         "active":true,
+         "resourceLocation":"redpink_lava"
+      }
+   }
+}
